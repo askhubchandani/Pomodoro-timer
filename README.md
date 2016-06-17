@@ -1,1 +1,1 @@
-JavaScript Pomodoro Timer:  Track Your Pomodoro Sessions.
+JavaScript Pomodoro Timer:  Track Your Pomodoro Sessions!
